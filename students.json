@@ -1,0 +1,16 @@
+{
+    "student1":{
+        "name":"mohan",
+        "age":"21",
+        "department":"cse",
+        "sex":"Male",
+        "rollno":1
+    },
+    "student2":{
+        "name":"akshaya",
+        "age":"20",
+        "department":"civil",
+        "sex":"female",
+        "rollno":2
+    }
+}
